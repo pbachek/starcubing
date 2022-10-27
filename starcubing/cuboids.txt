@@ -1,0 +1,43 @@
+178	: {}
+59	: {class=1}
+40	: {class=1,Flavanoids=2.236-3.184}
+71	: {class=2}
+42	: {class=2,Alcohol=11.79-12.55}
+44	: {class=2,Malic acid=0.74-1.752}
+56	: {class=2,Color intensity=1.28-3.624}
+45	: {class=2,Proline=278-558.4}
+48	: {class=3}
+44	: {class=3,Flavanoids=0.34-1.288}
+48	: {Alcohol=12.55-13.31}
+50	: {Alcohol=13.31-14.07}
+49	: {Alcohol=11.79-12.55}
+77	: {Malic acid=0.74-1.752}
+49	: {Malic acid=1.752-2.764}
+97	: {Ash=2.108-2.482}
+52	: {Ash=2.108-2.482,Alcalinity of ash=18.36-22.24}
+47	: {Ash=2.108-2.482,Magnesium=88.4-106.8}
+40	: {Ash=2.108-2.482,Proanthocyanins=1.044-1.678}
+51	: {Ash=2.482-2.856}
+56	: {Alcalinity of ash=14.48-18.36}
+81	: {Alcalinity of ash=18.36-22.24}
+83	: {Magnesium=88.4-106.8}
+43	: {Magnesium=88.4-106.8,Color intensity=3.624-5.968}
+47	: {Magnesium=70-88.4}
+45	: {Total phenols=2.72-3.3}
+51	: {Total phenols=2.14-2.72}
+50	: {Total phenols=1.56-2.14}
+64	: {Flavanoids=2.236-3.184}
+43	: {Flavanoids=1.288-2.236}
+51	: {Flavanoids=0.34-1.288}
+71	: {Nonflavanoid phenols=0.236-0.342}
+41	: {Nonflavanoid phenols=0.236-0.342,Hue=0.972-1.218}
+53	: {Proanthocyanins=1.678-2.312}
+74	: {Proanthocyanins=1.044-1.678}
+70	: {Color intensity=3.624-5.968}
+58	: {Color intensity=1.28-3.624}
+62	: {Hue=0.972-1.218}
+57	: {Hue=0.726-0.972}
+53	: {OD280/OD315 of diluted wines=2.908-3.454}
+44	: {OD280/OD315 of diluted wines=2.362-2.908}
+59	: {Proline=278-558.4}
+60	: {Proline=558.4-838.8}
